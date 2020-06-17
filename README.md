@@ -1,2 +1,2 @@
-# AB_Testing
+# AB-Testing
 A/B testing Toolkit
